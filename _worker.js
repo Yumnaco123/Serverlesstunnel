@@ -1,8 +1,8 @@
 ﻿
 import { connect } from 'cloudflare:sockets';
 
-let userID = '165b0548-45ea-4d2a-a7d4-f6f5c518ef63';
-let proxyIP = '149.129.250.8';
+let userID = '017718a9-e954-42d2-9357-687632cedc6b';
+let proxyIP = '43.218.77.16';
 //let sub = '';
 let subConverter = atob('U3ViQXBpLkNtbGlVc3NzUy5OZXQ=');
 let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL0FDTDRTU1IvQUNMNFNTUi9tYXN0ZXIvQ2xhc2gvY29uZmlnL0FDTDRTU1JfT25saW5lX01pbmlfTXVsdGlNb2RlLmluaQ==');
@@ -5816,6 +5816,7 @@ async function handleWebSocket(request) {
     });
 
 }
+
 
 
 
